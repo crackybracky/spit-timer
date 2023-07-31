@@ -12,10 +12,10 @@ Soo, i made this neat little timer to help me fix that! :)
 i spent about 2 hours on this program, sigh...
 
 HOW TO USE
-Launch Program
-Press any key to start the 15 second timer
-Spit when you hear the bullsquid attack sound
-Have fun!
+Launch Program,
+press any key to start the 15 second timer,
+spit when you hear the bullsquid attack sound,
+have fun!
 
 Press CTRL+C then N to pause, Y to exit. :D
 If you are running the .bat and not the .exe, you need a spit.wav in the same directory otherwise this won't work
