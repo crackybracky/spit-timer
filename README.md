@@ -1,4 +1,5 @@
 # spit-timer
+aka SpitTime
 Tells you when to spit
 
 Created by crackybracky on 7/31/2023
