@@ -18,3 +18,4 @@ Spit when you hear the bullsquid attack sound
 Have fun!
 
 Press CTRL+C then N to pause, Y to exit. :D
+If you are running the .bat and not the .exe, you need a spit.wav in the same directory otherwise this won't work
