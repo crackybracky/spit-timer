@@ -9,6 +9,7 @@ Yes, it's hacky, i know. Atleast i tried to make it as clean as possible, lol :P
 It consists of a .bat script and a .wav packaged with iexpress.
 I created this because i sound stupid whenever there's spit in my throat UGH
 Soo, i made this neat little timer to help me fix that! :)
+i spent about 2 hours on this program, sigh...
 
 HOW TO USE
 Launch Program
