@@ -3,14 +3,16 @@ REM : Timer that tells you when to spit :D
 REM : I made this because it's ridiculous how stupid i sound when my throat is slimey. (ugh...)
 REM : Spit sound is from Half-Life by Valve Software btw. (bc_attack1.wav)
 REM : Made by crackybracky (C) 7/31/2023
+REM : Version 1.1, added a new name change and neater formatting on welcome user :D
 
-TITLE Spit-Timer 1.0
+TITLE SpitTime 1.1
 
 REM : welcome user
 cls
 echo[
-echo Welcome to Spit-Timer! Make sure to spit every time you hear a spit!
-echo Otherwise you are gonna sound like a stupid little bitch!!!
+echo Welcome to SpitTime! Make sure to spit every time you hear a spit!
+echo Otherwise you're gonna sound like a stupid little bitch!!!
+echo[
 pause
 
 REM : Begin 15 sec timer and call embedded vbs script
