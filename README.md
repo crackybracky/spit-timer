@@ -2,7 +2,6 @@
 aka SpitTime
 Tells you when to spit
 
-Created by crackybracky on 7/31/2023
 Credits to valve software for the spit sfx
 
 This is basically just a program that plays a sound and prints a line after 15 seconds in cmd.
